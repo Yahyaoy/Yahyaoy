@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Khlaid</h1>
 <h3 align="center">A backend developer from Palestine ..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaooy&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaooy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyaooy" alt="yahyaooy" /></a> </p>
-
 
 - 🌱 I’m currently learning **Laravel , Vue js , alpine js ,Node js**
 
