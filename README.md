@@ -8,11 +8,11 @@
 
 - 🤝 I’m hope to be an [Senior Backend Developer](♥♥)
 
-- 🔭 I studied at the IUG university [https://www.iugaza.edu.ps/en/](https://www.iugaza.edu.ps/en/)
+- 🔭 I studied at the IUG university [https://www.iugaza.edu.ps/en/]
 
-- 👨‍💻 All of my projects are available at [this page](this page)
+- 👨‍💻 All of my projects are available at [this page]
 
-- 📝 I regularly read articles about [web and prgramming](web and prgramming)
+- 📝 I regularly read articles about [web and prgramming]
 
 - 💬 Ask me about **laravel and tailwind css**
 
