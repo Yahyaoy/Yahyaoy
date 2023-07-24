@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yahya Khlaid</h1>
-<h3 align="center">A backend developer from Palestine ..</h3>
+<h1 align="center">Hi 👋, I'm Yahya Khlaid Alshaikh Eid</h1>
+<h3 align="center">A php laravel developer ..</h3>
 
 
-- 🌱 I’m currently learning **Laravel , Vue js , alpine js ,Node js**
+- 🌱 I’m currently learning ** Vue js , alpine js ,Node js, pyhon with AI**
 
 - 👨‍💻 I’m looking to collaborate on [Google , Microsoft](www.google.com)
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **laravel and tailwind css**
 
-- 📫 How to reach me **yahsheek94@gmail.com**
+- 📫 How to reach me **yahsheek01@gmail.com**
 
-- 📄 Know about my experiences [not yet .. soon](not yet .. soon)
+- 📄 Know about my experiences [building several project by laravel and nodejs]
 
 - ⚡ Fun fact **I will be a great programmer**
 
